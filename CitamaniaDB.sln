@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CitamaniaDB", "CitamaniaDB\CitamaniaDB.sqlproj", "{F7398A37-6CA4-400E-BAD8-2757C7F2F3DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7398A37-6CA4-400E-BAD8-2757C7F2F3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7398A37-6CA4-400E-BAD8-2757C7F2F3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7398A37-6CA4-400E-BAD8-2757C7F2F3DE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F7398A37-6CA4-400E-BAD8-2757C7F2F3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7398A37-6CA4-400E-BAD8-2757C7F2F3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7398A37-6CA4-400E-BAD8-2757C7F2F3DE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B5DF768-FDDF-4FE7-AB88-0C0DC98BEF6D}
+	EndGlobalSection
+EndGlobal
